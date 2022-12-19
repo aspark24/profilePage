@@ -100,5 +100,22 @@ a{
 
 /* Education */
 .eduContainer{
-    
+width: 60%;
+background-color: white;
+border: 2px solid #999;
+margin-bottom: 20px;
+border-radius: 5px;
+font-size: 1.2rem;
+overflow: hidden;
+}
+
+.eduHeader{
+    background-color: black;
+    height: 50px;
+    margin-bottom: 70px;
+    color: aliceblue;
+}
+
+.eduBody{
+    padding: 20px;
 }
